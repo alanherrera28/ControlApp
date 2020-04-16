@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40921913240",
+    "firebase_url": "https://control-home-b42d9.firebaseio.com",
+    "project_id": "control-home-b42d9",
+    "storage_bucket": "control-home-b42d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40921913240:android:50429aa35b483a15943ded",
+        "android_client_info": {
+          "package_name": "com.aherrera.controlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40921913240-6pvnftbal17soafm9f76oqip7s8suh15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aherrera.controlapp",
+            "certificate_hash": "91f8d63026c74bb9fcda1b33b50a7dea4ec5e16e"
+          }
+        },
+        {
+          "client_id": "40921913240-pnjo6skcoht5m9dktgrg9ohmllcv3dq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HzFH4I6h1jGSLNtE6-30sOaTuKvxbs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40921913240-pnjo6skcoht5m9dktgrg9ohmllcv3dq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
